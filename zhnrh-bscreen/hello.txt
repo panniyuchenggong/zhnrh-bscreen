@@ -1,4 +1,3 @@
-hello git! hot-fix modified`:wq!
 hello git!
 hello git!
 hello git!
